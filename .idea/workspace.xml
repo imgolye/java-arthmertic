@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="941044a0-276a-4670-90ac-a932a9472992" name="Default Changelist" comment="" />
+    <list default="true" id="941044a0-276a-4670-90ac-a932a9472992" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lists/src/main/java/org/links/lists/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/src/main/java/org/links/lists/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/src/main/java/org/links/lists/List.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,14 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,11 +126,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645603344393</updated>
-      <workItem from="1645603345707" duration="893000" />
+      <workItem from="1645603345707" duration="2416000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
